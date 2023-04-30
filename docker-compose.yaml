@@ -1,0 +1,16 @@
+name: lemon_container
+services:
+  limesurvey:
+    build: .
+    ports:
+      - "8080:80"
+    links:
+      - mysql
+  mysql:
+    image: mysql:8.0
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=lemon1000
+      - MYSQL_USER=limeuser
+      - MYSQL_PASSWORD=limeuser1000
