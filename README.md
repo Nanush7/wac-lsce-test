@@ -1,8 +1,6 @@
 # wac-lsce-test
 WCA Advisory Council's Lime Survey Community Edition Test repository.
 
-***
-
 ## Run the container
 
 First, you have to clone this repo and `cd` to it.
@@ -43,10 +41,10 @@ WARNING: The previous step generates a veeeeery verbose output. It is recommende
 
 Once you have successfully connected to `localhost:8080`, you will be welcomed with the following screen:
 
-!IMG 1
+![Captura de pantalla 2023-04-30 a la(s) 00 54 26](https://user-images.githubusercontent.com/59543882/235335104-7148dc9f-25e4-4055-9511-60b637803958.png)
 
 Go ahead and start installation.
 
-!IMG 2
+![Captura de pantalla 2023-04-30 a la(s) 00 56 05](https://user-images.githubusercontent.com/59543882/235335110-6c4fb5b0-20c2-4b6b-85ee-63cc501adb58.png)
 
-!IMG 3
+![Captura de pantalla 2023-04-30 a la(s) 00 59 48](https://user-images.githubusercontent.com/59543882/235335113-840e07df-b198-4350-8d3a-2f9d12d8f7b3.png)
