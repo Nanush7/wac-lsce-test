@@ -1,5 +1,5 @@
 # wac-lsce-test
-WCA Advisory Council's Lime Survey Community Edition Test repository.
+WCA Lime Survey Community Edition Test repository.
 
 ## Run the container
 
